@@ -193,7 +193,7 @@ section .title::after {
     display: flex;
     background-color: #111;
     height: 100vh;
-    color: #fff;
+    color: #111;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -232,7 +232,7 @@ section .title::after {
 .home .home-content a {
     display: inline-block;
     background: crimson;
-    color: #111;
+    color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
